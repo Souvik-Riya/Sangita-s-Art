@@ -1,7 +1,7 @@
 {
-  "name": "Gallery",
-  "short_name": "Gallery",
-  "start_url": "/",
+  "name": "My App Name",
+  "short_name": "AppName",
+  "start_url": "https://souvik-riya.github.io/Sangitasart/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200ee",
